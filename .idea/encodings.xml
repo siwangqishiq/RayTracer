@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/Ball.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/Camera.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/ColorRect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/HitInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/HitObject.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/Intersection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/Light.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/Sample5_8/MatrixState.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
